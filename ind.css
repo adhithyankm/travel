@@ -1,0 +1,77 @@
+.carousel-item img{
+    height: 100vh;
+}
+.navbar {
+    background: #d9841b;
+}
+
+.navbar-nav{
+    margin-left: 10rem;
+}
+
+.beaches{
+    margin-top: 2rem;
+    text-align: center;
+    
+}
+.cites{
+    margin-top: 2rem;
+    text-align: center;
+    
+}
+.nature{
+    margin-top: 2rem;
+    text-align: center;
+
+}
+
+
+.contact{
+   
+    color: #3e2ea6;
+    margin-top: 0;
+ }
+ .icons{
+    background-color: white;
+    padding: 20px;
+ }
+ .information{
+     display: grid;
+     grid-template-columns:  repeat(auto-fit, minmax(15rem,1fr));
+     /* grid-gap: 30px; */
+ }
+ .fa-brands.fa-facebook{
+    color: blue;
+}
+.fa-brands.fa-twitter{
+    color: rgb(67, 224, 238);
+}
+.fa-brands.fa-instagram{
+    color: #d62976;
+}
+.fa-brands.fa-pinterest{
+    color: rgb(165, 37, 37);
+}
+ .info{
+     margin-top: 2rem;
+     text-align: center;
+     
+     
+     align-items: center;
+     
+     border-right: 2px solid;
+     color: #3e2ea6;
+     border-bottom: 2px solid;
+     padding: 50px;
+ }
+ .info h4{
+     margin-bottom: 2rem;
+ 
+ }
+ .download{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
